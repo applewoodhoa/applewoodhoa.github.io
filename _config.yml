@@ -4,3 +4,6 @@ description: Website for the Applewood HOA in Madison, AL
 theme: jekyll-theme-cayman
 
 exclude: [Gemfile, README.md]
+
+github:
+    - is_project_page: false
