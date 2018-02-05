@@ -1,0 +1,39 @@
+---
+title: HOA Meetings
+layout: default
+---
+<div id="navcontainer">
+  <ul id="navlist">
+    <li><a href="/">Home</a></li>
+    <li>|</li>
+    <li><a href="/docs/">Documents</a></li>
+    <li>|</li>
+    <li><a href="/meetings/">Meetings</a></li>
+    <li>|</li>
+    <li><a href="https://www.ehmusa.com/">Elite Housing</a></li>
+    <li>|</li>
+    <li><a href="https://elitehousing.appfolio.com/connect">Pay HOA Dues</a></li>
+  </ul>
+</div>
+
+<h2>HOA Meetings</h2>
+
+The next meeting of the Applewood HOA is Feb 13th 2018.
+
+<h2>Meeting Minutes</h2>
+
+<ul class="posts">
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}" title="{{ post.title }}">
+      <h2>
+        {{ post.title }}
+      </h2>
+      <h3>{{ post.date | date_to_string }}</h3>
+    </a>
+    <div class="postcontent">{{ post.excerpt }}</div>
+    <br/>
+    <div class="clearboth"></div>
+  </li>
+{% endfor %}
+</ul>
