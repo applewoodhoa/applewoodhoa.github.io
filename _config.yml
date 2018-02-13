@@ -1,6 +1,8 @@
 title: Applewood HOA
 description: Website for the Applewood HOA in Madison, AL
 
+permalink: /meetings/:year/:month/:day/:title.html
+
 theme: jekyll-theme-cayman
 
 exclude: [Gemfile, README.md]
