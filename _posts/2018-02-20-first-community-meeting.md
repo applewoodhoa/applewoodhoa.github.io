@@ -8,7 +8,7 @@ date:   2018-02-20 19:00:00 -0600
 
 # Architectural Review Committee
 
-- Call to Order at 2/20/2017 6:41pm
+- Call to Order at 2/20/2018 6:41pm
 - Roll Call
     - present: Doug Goldstein, Will Bowen, and Cory Martin
     - absent: Krista Robey and Stacie Bohanan
@@ -23,11 +23,11 @@ date:   2018-02-20 19:00:00 -0600
     - Vote: All in favor.
     - Resolved: Hold ARC meeting monthly
 - Motion to adjurn by Cory. Seconded by Will. All in favor.
-- Adjurned at 2/20/2017 6:47pm.
+- Adjurned at 2/20/2018 6:47pm.
 
 # Board Meeting
 
-- Call to Order at 2/20/2017 6:47pm
+- Call to Order at 2/20/2018 6:47pm
 - Roll Call
     - present: Doug Goldstein, Will Bowen, and Cory Martin
     - absent: Krista Robey and Stacie Bohanan
@@ -89,4 +89,4 @@ date:   2018-02-20 19:00:00 -0600
     - Resolved: Replaced Krista Robey with Sarah Comfort on the ARC.
 - Open floor
 - Motion to adjurn by Cory. Seconded by Will. All in favor.
-- Adjurned at 2/20/2017 7:35pm.
+- Adjurned at 2/20/2018 7:35pm.
