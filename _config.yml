@@ -5,7 +5,10 @@ permalink: /meetings/:year/:month/:day/:title.html
 
 theme: jekyll-theme-cayman
 
-exclude: [Gemfile, README.md]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
 
 github:
     - is_project_page: false
