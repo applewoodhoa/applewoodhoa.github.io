@@ -20,3 +20,4 @@ layout: default
 | Broken tree on Gillespie |
 | Repair electric lights at the trees |
 | Trim trees to not look like bushes |
+| Have lawn company put notice in mail box |
