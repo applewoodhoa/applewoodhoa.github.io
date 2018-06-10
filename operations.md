@@ -14,6 +14,7 @@ continuity and to ensure steps are not missed.
 - Check pool supplies (Elite)
   - Paper towels for dispensers
   - Trash bags
+  - Soap for bathrooms
 - Enforce covenants (Elite)
   - Drive past all properties and document violations
   - Send notices and fines
@@ -21,9 +22,16 @@ continuity and to ensure steps are not missed.
   - Clean filter
   - Clean pool
   - Check chemicals
+  - Sign sheet showing services performed
 - Lawn care in common areas (JTL Lawn Care)
 - Weed treatment in common areas (Fairway Lawns)
 - Weekly pool area / bathroom cleaning
+  - Both bathrooms clean
+  - Restock paper towels
+  - Restock soap
+  - Take out trash and put in fresh bags
+  - Tell Elite if supplies are low
+  - Sign sheet showing services perfomed
 
 ## Seasonal
 
