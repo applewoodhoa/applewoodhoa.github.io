@@ -21,3 +21,4 @@ layout: default
 | Repair electric lights at the trees |
 | Trim trees to not look like bushes |
 | Have lawn company put notice in mail box |
+| No soliciting signs |
