@@ -22,8 +22,8 @@ date:   2018-02-20 19:00:00 -0600
     Cory and seconded by Will.
     - Vote: All in favor.
     - Resolved: Hold ARC meeting monthly
-- Motion to adjurn by Cory. Seconded by Will. All in favor.
-- Adjurned at 2/20/2018 6:47pm.
+- Motion to adjourn by Cory. Seconded by Will. All in favor.
+- Adjourned at 2/20/2018 6:47pm.
 
 # Board Meeting
 
@@ -57,7 +57,7 @@ date:   2018-02-20 19:00:00 -0600
       savings account at Sonovus with Crystal League and Doug Goldstein as
       signatory. Seconded by Will.
     - Vote: All in favor.
-    - Resolved: Doug Goldstein will establish a bank account at Sonovus.
+    - Resolved: Doug Goldstein will establish a bank account at Synovous.
 - Hold board meeting monthly
     - Motion: Cory motions to hold board meeting monthly on the 1st Tuesday of
     each month following the ARC meeting at a location posted on the website.
@@ -88,5 +88,5 @@ date:   2018-02-20 19:00:00 -0600
     - Vote: All in favor.
     - Resolved: Replaced Krista Robey with Sarah Comfort on the ARC.
 - Open floor
-- Motion to adjurn by Cory. Seconded by Will. All in favor.
-- Adjurned at 2/20/2018 7:35pm.
+- Motion to adjourn by Cory. Seconded by Will. All in favor.
+- Adjourned at 2/20/2018 7:35pm.
