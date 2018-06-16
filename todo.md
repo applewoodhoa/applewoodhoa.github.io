@@ -17,7 +17,7 @@ layout: default
 | Repair Pool Fence | Elite |
 | Self-Closing Mechanism for Pool Gate | Elite |
 | Pool Caulk Line | Board Vote | Quoted at $900. Likely at the of the season |
-| Broken tree on Gillespie |
+| Broken tree on Gillespie | Cory | Chopped down and at the street |
 | Repair electric lights at the trees |
 | Trim trees to not look like bushes |
 | Have lawn company put notice in mail box |
