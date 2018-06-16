@@ -8,10 +8,10 @@ layout: default
 
 | Task | Who | Status |
 | ---- | --- | ------ |
-| Property/Liability Insurance |
+| Property/Liability Insurance | Cedric -> Alfa, Elite -> Smith Lainer and others | Cedric submitted request. Doug submitted request to Smith Lanier but they need info from Elite. Elite is shopping for other providers |
 | Private Property Signage for Pool Parking Lot |
 | Mailbox for Pool Address |
-| Trash Service for Pool |
+| Trash Service for Pool | Elite | Getting quotes |
 | Pursue HOA dues collection | Elite |
 | Entrances Monuments |
 | Repair Pool Fence | Elite |
