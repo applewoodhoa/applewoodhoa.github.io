@@ -22,3 +22,4 @@ layout: default
 | Trim trees to not look like bushes |
 | Have lawn company put notice in mail box |
 | No soliciting signs |
+| Covenant Amendments | Doug | Asking Legacy for amendments. Elite has no records |
