@@ -25,3 +25,6 @@ layout: default
 | Covenant Amendments | Doug | Received all documents |
 | Common Area Fence Repair | - | Damage is accurring but no funds now |
 | Weeds / Grass behind Common Area Fence | - |
+| drop TCL cleaning frequency | Sarah |
+| drop JTL lawn care frequency | Doug |
+| reduce pool cost | Cory |
