@@ -64,3 +64,4 @@ continuity and to ensure steps are not missed.
 | Madison Utilities | | Water |
 | JTL Lawn Care | | Mowing |
 | Fairway Lawns | | Weed Treatment |
+| Jerome Stanley | 256-617-4512 | Pool Maintenance |
