@@ -1,6 +1,7 @@
 title: Applewood HOA
 description: Website for the Applewood HOA in Madison, AL
 
+timezone: America/Chicago
 permalink: /meetings/:year/:month/:day/:title.html
 
 theme: jekyll-theme-cayman
