@@ -1,0 +1,54 @@
+---
+layout: default
+title:  "Community Board Meeting"
+date:   2019-01-27 19:32:00 -0600
+---
+
+{% include nav.html %}
+
+# Architectural Review Committee
+
+- Call to Order at 1/27/2019 3:04pm
+- Roll Call
+    - present: Doug Goldstein, Will Bowen, Cory Martin, Sarah Comfort, Cedric Delbridge
+    - absent: None 
+    - observer(s): None
+- Motion: Prior minuttes motioned to be accepted by Will Bowen and seconded by Cory Martin.
+  - Vote: All in favor.
+
+- Old Business to Review:
+  - No old business to review.
+
+- Current ARC Requests:
+  - No current requests. Reviewed potential neighborhood entrance signage from TRAV-AD SIGNS.
+
+- Motion to adjurn by Doug Goldstein and seconded by Will Bowen.
+  - Vote: All in favor.
+- Adjurned at 1/27/2019 3:30pm.
+
+# Board Meeting
+
+- Call to Order at 1/27/2019 3:32pm
+- Roll Call
+    - present: Doug Goldstein, Will Bowen, Cory Martin, Sarah Comfort
+    - absent: Cedric Delbridge
+    - observer(s): None
+
+- Motion: Prior Board Meeting Minutes to be accepted by Will Bowen and seconded by Cory Martin.
+  - Vote: All in favor.
+
+- Old Business to Review:
+  - Community vote for new board.
+     - Nomination period from Oct 6th to Oct 11th as announced on the website and via email.
+     - Only nominated individuals were the existing board members.
+     - Election announced Oct 6th for this meeting. The announcement was posted on the website and sent out via email on multiple occations. Absentee ballots were accepted as well.
+     - 14 homeowners (one per home) were present and voted by a voice vote to accept the nominated slate of candidates. All in the affirmative and none dissenting.
+     - 6 lots submitted absentee ballots. However one is disqualified as they also voted in person. All for the nominated slate of candidates.
+     - Quorum of 75 lots is 19 lots (25% of 75 lots) resulting in a valid vote for the selected candidates.
+
+- New Business to Review.
+  - Discussed JTL fence repair quote. 6 fence posts, 18 fence facings, and 7 cross bracings for an estimate of $625.
+- Open floor
+- Motion: Adjurn meeting by Will Bowen. Seconded by Sarah Comfort. 
+  - Vote: All in favor.
+- Adjurned at 1/27/2019 4:05pm.
