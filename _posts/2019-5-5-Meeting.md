@@ -1,0 +1,54 @@
+---
+layout: default
+title:  "Community Board Meeting"
+date:   2019-05-05 19:32:00 -0600
+---
+
+{% include nav.html %}
+
+# Architectural Review Committee
+
+- Call to Order at 5/5/2019 3:07pm
+- Roll Call
+    - present: Doug Goldstein, Will Bowen, Cory Martin, Sarah Comfort, Cedric Delbridge
+    - absent: Elite Rep. 
+    - observer(s): None
+- Motion: Prior minutes motioned to be accepted by Will Bowen and seconded by Cory Martin.
+  - Vote: All in favor.
+
+- Old Business to Review:
+  - Review of options to venders for signage. Approval of ARC request from residence on Idared Lane.
+
+- Current ARC Requests:
+  - No current requests. Continued discussions of procurement for neighborhood signage.
+
+- Motion to adjourn by Doug Goldstein and seconded by Will Bowen.
+  - Vote: All in favor.
+- Adjourned at 5/5/2019 3:20pm.
+
+# Board Meeting
+
+- Call to Order at 5/5/2019 3:20pm
+- Roll Call
+    - present: Doug Goldstein, Will Bowen, Cory Martin, Sarah Comfort
+    - absent: Cedric Delbridge
+    - observer(s): None
+
+- Motion: Prior Board Meeting Minutes to be accepted by Will Bowen and seconded by Cory Martin.
+  - Vote: All in favor.
+
+- Old Business to Review:
+  - Pool opening date and discussion of changing filtration system. Discussion updating HOA covenants.
+
+- New Business to Review.
+  - Pool filtration system update to sand based is $825.
+  - Discussion of HOA management contract.
+  - Fence painting is scheduled for early June. Discussion of other fencing repairs which will be required in the upcoming year.
+  - June 8th is being targeted for a community event.
+
+    - Vote: All in favor.
+
+- Open floor
+- Motion: Adjourn meeting by Will Bowen. Seconded by Sarah Comfort. 
+  - Vote: All in favor.
+- Adjourned at 5/5/2019 5:50pm.
