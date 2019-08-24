@@ -64,3 +64,6 @@ continuity and to ensure steps are not missed.
 | Fairway Lawns | 800-300-8565 | Weed Treatment |
 | Jerome Stanley | 256-617-4512 | Pool Maintenance |
 | Top Shelf Customized Cleaning | 256-417-9122 (Trina) | Cleaning |
+| Namecheap.com | | Domain Name (madisonapplewoodhoa.com) |
+| GitHub | | Domain Hosting |
+| Mailchimp | | Community Emails |
