@@ -11,10 +11,6 @@ continuity and to ensure steps are not missed.
 
 ## Reoccurring
 
-- Check pool supplies (Elite)
-  - Paper towels for dispensers
-  - Trash bags
-  - Soap for bathrooms
 - Enforce covenants (Elite)
   - Drive past all properties and document violations
   - Send notices and fines
@@ -23,15 +19,17 @@ continuity and to ensure steps are not missed.
   - Clean pool
   - Check chemicals
   - Sign sheet showing services performed
-- Lawn care in common areas (JTL Lawn Care)
+- Lawn care in common areas (Turf Master)
+  - Mulching trees
+  - Mowing
+  - Caring for shrubs
 - Weed treatment in common areas (Fairway Lawns)
-- Weekly pool area / bathroom cleaning
+- Weekly pool area / bathroom cleaning (Top Shelf Cleaning)
   - Both bathrooms clean
   - Restock paper towels
   - Restock soap
   - Take out trash and put in fresh bags
-  - Tell Elite if supplies are low
-  - Sign sheet showing services perfomed
+  - Sign sheet showing services performed
 
 ## Seasonal
 
@@ -62,6 +60,7 @@ continuity and to ensure steps are not missed.
 | Elite Housing | 256-808-8719 | Property / Vendor Management & Bills |
 | Huntsville Utilities | | Power & Trash |
 | Madison Utilities | | Water |
-| JTL Lawn Care | | Mowing |
-| Fairway Lawns | | Weed Treatment |
+| Turf Master | 256-656-0689 (Josh) | Mowing |
+| Fairway Lawns | 800-300-8565 | Weed Treatment |
 | Jerome Stanley | 256-617-4512 | Pool Maintenance |
+| Top Shelf Customized Cleaning | 256-417-9122 (Trina) | Cleaning |
