@@ -58,6 +58,7 @@ continuity and to ensure steps are not missed.
 | Vendor | Contact | Responsibility |
 | ------ | ------- | -------------- |
 | Elite Housing | 256-808-8719 | Property / Vendor Management & Bills |
+| Adam Dauro (Heard, Ary, Dauro) | 256-535-0817 / adauro@Heardlaw.com | Legal |
 | Huntsville Utilities | | Power & Trash |
 | Madison Utilities | | Water |
 | Turf Master | 256-656-0689 (Josh) | Mowing |
