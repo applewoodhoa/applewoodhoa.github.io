@@ -30,6 +30,7 @@ continuity and to ensure steps are not missed.
   - Restock soap
   - Take out trash and put in fresh bags
   - Sign sheet showing services performed
+  - [Service contract](/docs/Top-Shelf-Contract.pdf)
 
 ## Seasonal
 
