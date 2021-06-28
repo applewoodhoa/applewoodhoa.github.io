@@ -30,3 +30,7 @@ date:   2021-06-22 21:00:00 -0500
     - Jason Comfort proposed selecting homeowner submitted chaise loungers, seconded by Doug Goldstein
         - Vote: All in favor via text message
     - Doug Goldstein executed purchase to be reimbursed by the Applewood HOA for $2688.65 from Wayfair
+    - Blanco BMD Remodeling requested $300 in additional materials to complete the fence repair project.
+        - Vote: All in favor via text message
+    - Blanco BMD Remodeling requested $2000 payment for fence construction completion, leaving $900 when the fence is dried enough to paint.
+        - Vote: All in favor via text message
