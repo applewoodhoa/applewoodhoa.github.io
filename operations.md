@@ -1,11 +1,61 @@
 # Operations
 
 The goal of this page is to document the operations of the HOA for
-continuity and to ensure steps are not missed.
+continuity and to help the community understand how things work.
 
-## Reoccurring
+## Responsible Parties
 
-- Enforce covenants (Elite)
+### The HOA Board
+
+The HOA board is made up of volunteers within the community that are
+elected by the homeowners. The board is ultimately responsible for:
+* approving the spending of funds
+* setting annual dues
+* delegating certain operations to others
+
+The board has 3 primary roles:
+* President - calling meetings, establishing committees, executive actions
+* Treasurer - tracking expenses, planning the budget. ensuring vendors are paid
+* Secretary - taking meeting notes, creating and retaining records
+
+### Property Management - Elite Housing
+
+Elite Housing has been delegated by the HOA board as the property manager
+for the community. The builder originally selected Elite Housing and when
+the HOA was turned over to the community, the board continued the relationship. These responsiblities include:
+* vendor management
+  * bid gathering
+  * ensuring vendors complete work
+  * paying vendors
+* enforcing covenants
+  * driving the neighborhood
+  * sending out violation notices
+  * communicating with homeowners about violations
+  * submitting variances to Architectural Review Committee
+  * fining violations of the covenants
+* maintaining HOA accounts
+  * collecting annual HOA dues
+  * collecting fines
+  * using attorney for collections
+  * paying vendors and utilities
+  * creating annual budget
+
+### Vendors/Contractors
+
+The HOA utilities different vendors/contractors for performing various work
+necessary around the neighborhood. The HOA board uses a competative bid
+process where the property manager gathers multiple bids for the work and
+the HOA board selects one and the property manager ensures it is executed
+correctly.
+
+## The Work
+
+To best organize what needs to happen we've broken the work into regularly
+reoccurring work and seasonal work.
+
+### Reoccurring
+
+- Enforce covenants (Elite Housing)
   - Drive past all properties and document violations
   - Send notices and fines
 - Check and clean pool (Jerome)
@@ -26,9 +76,9 @@ continuity and to ensure steps are not missed.
   - Sign sheet showing services performed
   - [Service contract](/docs/Top-Shelf-Contract.pdf)
 
-## Seasonal
+### Seasonal
 
-### Spring
+#### Spring
 
 - Re-open pool
 - Pressure wash pool area
@@ -37,7 +87,7 @@ continuity and to ensure steps are not missed.
 - Hold annual community Yard Sale
 - Hold annual community beautification gathering
 
-### Fall
+#### Fall
 
 - Hold end of summer pool party which should be an HOA meeting
 - Turn off sprinklers in fall
@@ -50,16 +100,15 @@ continuity and to ensure steps are not missed.
 
 ## Vendor List
 
-| Vendor | Contact | Responsibility |
-| ------ | ------- | -------------- |
-| Elite Housing | 256-808-8719 | Property / Vendor Management & Bills |
-| Adam Dauro (Heard, Ary, Dauro) | 256-535-0817 / adauro@Heardlaw.com | Legal |
-| Huntsville Utilities | | Power & Trash |
-| Madison Utilities | | Water |
-| Turf Master | 256-656-0689 (Josh) | Mowing |
-| Fairway Lawns | 800-300-8565 | Weed Treatment |
-| Jerome Stanley | 256-617-4512 | Pool Maintenance |
-| Top Shelf Customized Cleaning | 256-417-9122 (Trina) | Cleaning |
-| Namecheap.com | | Domain Name (madisonapplewoodhoa.com) |
-| GitHub | | Domain Hosting |
-| Mailchimp | | Community Emails |
+| Vendor | Contact | Number / Email | Responsibility |
+| ------ | ------- | -------------- | -------------- |
+| Elite Housing | | 256-808-8719 | Property / Vendor Management & Bills |
+| Heard, Ary, Dauro | Adam Dauro | 256-535-0817 / adauro@Heardlaw.com | Legal |
+| Huntsville Utilities | | | Power & Trash |
+| Madison Utilities | | | Water |
+| Fairway Lawns | | 800-300-8565 | Weed Treatment |
+| Jerome Stanley | | 256-617-4512 | Pool Maintenance |
+| Top Shelf Customized Cleaning | | 256-417-9122 (Trina) | Cleaning |
+| Namecheap.com | | Domain Name |
+| GitHub | | | Website Hosting |
+| Mailchimp | | | Community Emails |
