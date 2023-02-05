@@ -5,17 +5,17 @@ layout: default
 
 {% include nav.html %}
 
-<h2>HOA Meetings</h2>
+## HOA Meetings
 
 The next meeting of the Applewood HOA will occur in Q2 2023.
 
-<h2>Meeting Minutes</h2>
+## Meeting Minutes
 
 <ul class="posts">
 {% for post in site.posts %}
   <li>
     <a href="{{ post.url }}" title="{{ post.title }}">
-      <h3>{{ post.title }} - {{ post.date | date_to_string }}</h3>
+      {{ post.title }} - {{ post.date | date_to_string }}
     </a>
     <div class="clearboth"></div>
   </li>
