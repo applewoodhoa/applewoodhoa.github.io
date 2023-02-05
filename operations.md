@@ -1,9 +1,3 @@
----
-layout: default
----
-
-{% include nav.html %}
-
 # Operations
 
 The goal of this page is to document the operations of the HOA for

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:  "First Community Board Meeting"
 date:   2018-02-20 19:00:00 -0600
 ---
-
-{% include nav.html %}
 
 # Architectural Review Committee
 

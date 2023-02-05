@@ -1,10 +1,7 @@
 ---
-layout: default
 title:  "Special Meeting of the Board"
 date:   2021-06-22 21:00:00 -0500
 ---
-
-{% include nav.html %}
 
 # Special Meeting of the Board
 

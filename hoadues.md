@@ -1,9 +1,3 @@
----
-layout: default
-title: HOA Dues
----
-
-{% include nav.html %}
 
 ## HOA Dues
 

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:  "General Community Meeting and Board Meeting"
 date:   2018-11-04 15:15:00 -0600
 ---
-
-{% include nav.html %}
 
 # Architectural Review Committee
 

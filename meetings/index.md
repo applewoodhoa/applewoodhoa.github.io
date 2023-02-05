@@ -1,9 +1,6 @@
 ---
 title: HOA Meetings
-layout: default
 ---
-
-{% include nav.html %}
 
 ## HOA Meetings
 
