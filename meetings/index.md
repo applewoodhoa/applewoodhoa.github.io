@@ -4,7 +4,7 @@ title: HOA Meetings
 
 ## HOA Meetings
 
-The next meeting of the Applewood HOA will occur in Q2 2023.
+The next meeting of the Applewood HOA will occur on May 17th 2023 at the pool house.
 
 ## Meeting Minutes
 
