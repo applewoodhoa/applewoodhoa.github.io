@@ -50,8 +50,19 @@ correctly.
 
 ## The Work
 
-To best organize what needs to happen we've broken the work into regularly
+To best organize what needs to happen we've broken the work different
+committees and then split that inti into regularly
 reoccurring work and seasonal work.
+
+### Committees
+
+- Architecture Review
+- Pool
+- Landscaping
+- Events
+- Bookkeeping / Accounts Payable
+- Enforcement of Covenants
+
 
 ### Reoccurring
 
