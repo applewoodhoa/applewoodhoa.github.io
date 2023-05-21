@@ -117,8 +117,9 @@ reoccurring work and seasonal work.
 | Heard, Ary, Dauro | Adam Dauro | 256-535-0817 / adauro@Heardlaw.com | Legal |
 | Huntsville Utilities | | | Power & Trash |
 | Madison Utilities | | | Water |
+| Looks Matters | Sherrod Smith | 256-607-4748 | Grass Cutting and Mulch |
 | Fairway Lawns | | 800-300-8565 | Weed Treatment |
-| Jerome Stanley | | 256-617-4512 | Pool Maintenance |
+| Alabama Pool Kings | Ramona Warden | 256-325-1044 | Pool Maintenance |
 | Top Shelf Customized Cleaning | | 256-417-9122 (Trina) | Cleaning |
 | Namecheap.com | | Domain Name |
 | GitHub | | | Website Hosting |
