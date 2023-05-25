@@ -63,51 +63,95 @@ reoccurring work and seasonal work.
 - Bookkeeping / Accounts Payable
 - Enforcement of Covenants
 
+### ARC
 
-### Reoccurring
+The Architecture Review Committee is responsible for reviewing and
+approving or denying changes along with feedback for changes. To do
+this the ARC utilizes Elite Housing's portal for receiving requests,
+taking notes and voting on requests.
 
-- Enforce covenants (Elite Housing)
-  - Drive past all properties and document violations
-  - Send notices and fines
-- Check and clean pool (Jerome)
-  - Clean filter
-  - Clean pool
-  - Check chemicals
-  - Sign sheet showing services performed
-- Lawn care in common areas (Turf Master)
-  - Mulching trees
-  - Mowing
-  - Caring for shrubs
-- Weed treatment in common areas (Fairway Lawns)
-- Weekly pool area / bathroom cleaning (Top Shelf Cleaning)
-  - Both bathrooms clean
-  - Restock paper towels
-  - Restock soap
-  - Take out trash and put in fresh bags
-  - Sign sheet showing services performed
-  - [Service contract](/docs/Top-Shelf-Contract.pdf)
+### Pool - unstaffed and handled by the board
 
-### Seasonal
+The pool committee is responsible for planning the opening and closing
+dates of the pool. Soliciting and evaluating bids from pool maintenance
+companies and making recommendations to the board. Planning repairs or
+improvements to the pool area within the budget. Checking on the pool
+area and furniture periodically.
 
-#### Spring
+#### Annual
 
-- Re-open pool
-- Pressure wash pool area
-- Turn on water valves and sprinklers
-  - Check for leaks!
+- light bulb checks / maintenance
+- inventory / replace pool furniture
+- ensure function of the bath house
+
+#### Start of Season
+
+- open pool and let everyone know of when
+- pressure wash the deck
+- turn on water at the meter (check for leaks!)
+
+#### End of Season
+
+- close the pool and let everyone know
+- turn off the water at the meter and run water to depressurize plumbing
+
+#### Reoccurring
+
+Pool area contractors should:
+
+- Clean filter
+- Clean pool
+- Check chemicals
+- Check and clean bathrooms
+- Stock toilet paper in bathrooms
+- Stock soap in bathrooms
+- Remove trash from bathrooms and pool area
+
+### Landscaping - unstaffed and handled by the board
+
+The landscaping committee is responsible for the landscaping aesthetic
+for the neighborhood. They manage any landscaping / weed control / etc
+contractors. Make plans to improve the aesthetic of the neighborhood.
+
+#### Start of Season
+
+- Ensuring cut and weed treatment cycle is set
+- Mulch trees and flowerbeds
+- Plant flowers near pool
+
+#### Reoccuring
+
+Landscaping contractors should:
+
+- mow regularly
+- weed regularly
+- prune and care for shrubs
+
+### Events
+
+The events committee should organize community events.
+
+Ideas:
 - Hold annual community Yard Sale
-- Hold annual community beautification gathering
+- Hold annual community Beautification Project
 
-#### Fall
+### Bookkeeping / Accounts Payable
 
-- Hold end of summer pool party which should be an HOA meeting
-- Turn off sprinklers in fall
-- Turn off all water valves
-  - Gillespie by 200 Maigold
-  - Side of the pool house
-  - Balch by 101 Idared
-  - Run water from both bathroom sinks and flush toilets
-    after the water is off to depressurize the plumbing
+Currently delegated to Elite Housing.
+
+### Covenant Enforcement
+
+Currently delegated to Elite Housing.
+
+- Drive past all properties and document violations
+- Send notices and fines
+
+## Water Meters
+
+- Near larger electrical box by pool parking lot
+  - There is a valve next to the pool house and parking lot as well
+- Gillespie by 200 Maigold (sprinklers)
+- Balch by 101 Idared (sprinklers)
 
 ## Vendor List
 
@@ -118,9 +162,14 @@ reoccurring work and seasonal work.
 | Huntsville Utilities | | | Power & Trash |
 | Madison Utilities | | | Water |
 | Looks Matters | Sherrod Smith | 256-607-4748 | Grass Cutting and Mulch |
-| Fairway Lawns | | 800-300-8565 | Weed Treatment |
+| TDI | | 256-461-6909 | Weed Treatment |
 | Alabama Pool Kings | Ramona Warden | 256-325-1044 | Pool Maintenance |
-| Top Shelf Customized Cleaning | | 256-417-9122 (Trina) | Cleaning |
 | Namecheap.com | | Domain Name |
 | GitHub | | | Website Hosting |
 | Mailchimp | | | Community Emails |
+
+## Adding/Removing a Board member
+
+- login to NameCheap and add/remove board member emails to the board@ email address
+- notify Elite Housing of the board member additions/removal (with emails)
+- add/remove board member from text message chain
