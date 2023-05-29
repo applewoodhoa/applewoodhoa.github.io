@@ -173,3 +173,4 @@ Currently delegated to Elite Housing.
 - login to NameCheap and add/remove board member emails to the board@ email address
 - notify Elite Housing of the board member additions/removal (with emails)
 - add/remove board member from text message chain
+- give/return board member keys
