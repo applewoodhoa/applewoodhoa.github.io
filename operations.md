@@ -161,10 +161,11 @@ Currently delegated to Elite Housing.
 | Heard, Ary, Dauro | Adam Dauro | 256-535-0817 / adauro@Heardlaw.com | Legal |
 | Huntsville Utilities | | | Power & Trash |
 | Madison Utilities | | | Water |
-| Looks Matters | Sherrod Smith | 256-607-4748 | Grass Cutting and Mulch |
+| Turf Masters | | | Grass Cutting and Mulch |
 | TDI | | 256-461-6909 | Weed Treatment |
 | Alabama Pool Kings | Ramona Warden | 256-325-1044 | Pool Maintenance |
-| Namecheap.com | | Domain Name |
+| Jason Brannon | | 256-917-8080 | Fence Repair |
+| Namecheap.com | | | Domain Name |
 | GitHub | | | Website Hosting |
 | Mailchimp | | | Community Emails |
 
