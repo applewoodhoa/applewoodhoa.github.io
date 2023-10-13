@@ -9,6 +9,25 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
+header:
+  has_nav: true
+  nav_links:
+    - label: Home
+      url: /
+      style: link
+    - label: Documents
+      url: /docs/
+      style: link
+    - label: Meetings
+      url: /meetings/
+      style: link
+    - label: Operations
+      url: /operations.html
+      style: link
+    - label: HOA Dues
+      url: /hoadues.html
+      style: link
+
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
