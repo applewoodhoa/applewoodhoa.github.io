@@ -1,78 +1,90 @@
+---
+title: Applewood HOA
+---
+## Welcome to the Applewood HOA website
 
-<div id="content">
-  <h2>Welcome to the Applewood HOA website.</h2>
-  <p/>
+### How do I...
 
-  <h3>How do I...</h3>
-  <p/>
-  <ul>
-    <li><strong>report a street light out?</strong><br/>
-      See <a href="https://www.hsvutil.org/report-problem/">Huntsville Utilities Report a Problem Page</a>
-    </li>
-    <li><strong>report a pool issue?</strong><br/>
-      Contact the board at <a href="mailto:board@madisonapplewoodhoa.com">board@madisonapplewoodhoa.com</a>
-    </li>
-    <li><strong>get a replacement pool card?</strong><br/>
-      Cards are $50 for each replacement.
-      Contact <a href="https://www.ehmusa.com">Elite Housing</a> at
+- **report a street light out?**  
+  See the [Huntsville Utilities Report a Problem][hsvutil-problem] page
+- **report a pool issue?**  
+  Contact the board at [board@madisonapplewoodhoa.com][board-email]
+- **get a replacement pool card?**  
+  Cards are $50 for each replacement.
+  Contact [Elite Housing][ehmusa] at
       <a href="tel:+12568088719">(256) 808-8719</a> or
       <a href="mailto:info@ehmusa.com">info@ehmusa.com</a>
-    </li>
-    <li><strong>contact the board?</strong><br/>
-      Please email us at <a href="mailto:board@madisonapplewoodhoa.com">board@madisonapplewoodhoa.com</a>
-    </li>
-    <li><strong>get a recycling bin?</strong><br/>
-      Go to <a href="https://recycling-alliance.com">Recycling Alliance of North Alabama</a> website and request a bin.
-    </li>
-    <li><strong>request an approval for an exterior change?</strong><br/>
-      Please submit a request via <a href="https://elitehousing.appfolio.com/connect/architectural_reviews">Elite's website</a>.
-    </li>
-    <li><strong>get a garbage can repaired?</strong><br/>
-      Go to <a href="https://www.madisoncountyal.gov/departments/waste-control-and-recycling/request-for-cart-repair">Madison County Waste Control</a>'s websiteand request a repair.
-    </li>
-  </ul>
+- **contact the board?**  
+  Please email us at [board@madisonapplewoodhoa.com][board-email]
+- **get a recycling bin?**  
+  Go to [Recycling Alliance of North Alabama][rana] website and request a bin.
+- **request an approval for an exterior change?**  
+  Please submit a request via <a href="https://elitehousing.appfolio.com/connect/architectural_reviews">Elite's website</a>.
+- **get a garbage can repaired?**  
+  Go to Madison County's Waste Control [Request a Cart Repair][cart-repair] page.
 
-  <h3>Utilities</h3>
-  <p/>
-  Electric service is provided by <a href="https://www.hsvutil.org/">Huntsville Utilities</a>.
-  <p/>
-  Water service is provided by <a href="https://madisonutilities.org/">Madison Utilities</a>.
-  <p/>
-  Natural gas is provided by <a href="http://www.nagd.com/">North Alabama Natural Gas District</a>.
-  <p/>
-  Garbage (Household Waste) pickup is provided by <a href="https://www.madisonal.gov/226/GarbageTrash-Service">Madison County Sanitation</a> on Thursdays.
-  <p/>
-  Recycling pickup is provided by <a href="https://recycling-alliance.com">Recycling Alliance of North Alabama</a>. This is new since August 1st 2019. You must have a new style bin which is the same size as your garbage bin.  They pickup many things including cardboard boxes, #1, #2 narrow neck bottles. Pickup switched to a monthly cadence on the 3rd Thursday of the month.
-  <p/>
-  Trash pickup is provided by <a href="https://www.madisonal.gov/226/GarbageTrash-Service">Republic Services</a> on Mondays. This is for yard waste and large items. <a href="https://www.madisonal.gov/Faq.aspx?QID=82">What is the difference between trash and garbage?</a>
-  <p/>
-  Internet, TV &amp; Phone service is provided by <a href="https://www.att.com/internet/fiber.html">AT&amp;T Fiber</a>. There is no service provided by WOW or Comcast.
-  <p/>
 
-  <h3>Schools</h3>
-  We are currently zoned for:
-  <ul>
-    <li><a href="http://ces.madisoncity.k12.al.us/">Columbia Elementary School</a></li>
-    <li><a href="http://lms.madisoncity.k12.al.us/">Liberty Middle School</a></li>
-    <li><a href="http://jchs.madisoncity.k12.al.us/">James Clemens High School</a></li>
-  </ul>
+### Utilities
 
-  <h3>Polling Station</h3>
-  Our polling station (where you vote) is Precinct 88 at:
-  <p/>
-  <a href="https://goo.gl/maps/Z2hbnSnbzrq">
+Electrical Service
+: Provided by [Huntsville Utilities][hsvutil].
+
+Water &amp; Sewer
+: Provided by [Madison Utilities][madutil].
+
+Natural Gas
+: Provided by [North Alabama Natural Gas District][nagd].
+
+Garbage (Household Waste) Pickup
+: Provided by [Madison County Sanitation][madsani] on Thursdays.
+
+Trash Pickup
+: Provided by [Republic Services][madtrash] on Mondays. This is for yard waste and large items.
+: <a href="https://www.madisonal.gov/Faq.aspx?QID=82">What is the difference between trash and garbage?</a>
+
+Recycling Pickup
+: Provided by [Recycling Alliance of North Alabama][rana] with pickup happening on a monthly cadence on the 3rd Thursday of the month.
+
+Internet, TV &amp; Phone Service
+: Provided by <a href="https://www.att.com/internet/fiber.html">AT&amp;T Fiber</a> and Comcast.
+
+### Schools
+
+We are currently zoned for:
+
+- [Columbia Elementary School][ces]
+- [Liberty Middle School][lms]
+- [James Clemens High School][jchs]
+
+### Polling Station
+
+Our polling station (where you vote) is Precinct 88 at:
+
+<a href="https://goo.gl/maps/Z2hbnSnbzrq">
   Faith Lutheran Church<br/>
   660 Gillespie Rd<br/>
   Madison, AL 35758<br/>
-  </a>
-  <p/>
+</a>
 
-  <h3>Architectural Standards</h3>
-  The following standards must be adhered to:
-  <ul>
-    <li><strong>Fence Color:</strong> Charwood 3542 Semi-Transparent @ Sherwin Williams</li>
-  </ul>
+### Architectural Standards
 
-  {% include mailchimp.html %}
+The following standards must be adhered to:
 
-</div>
+**Fence Color:**
+: Charwood 3542 Semi-Transparent @ Sherwin Williams
+
+[board-email]: <mailto:board@madisonapplewoodhoa.com>
+[cart-repair]: <https://www.madisoncountyal.gov/departments/waste-control-and-recycling/request-for-cart-repair>
+[ehmusa]: <https://www.ehmusa.com>
+[hsvutil]: <https://www.hsvutil.org>
+[hsvutil-problem]: <https://www.hsvutil.org/report-problem>
+[madsani]: <https://www.madisoncountyal.gov/departments/waste-control-and-recycling>
+[madtrash]: <https://www.madisonal.gov/226/GarbageTrash-Service>
+[madutil]: <https://madisonutilities.org/>
+[nagd]: <https://www.nagd.com>
+[rana]: <https://recycling-alliance.com>
+[ces]: <https://ces.madisoncity.k12.al.us/>
+[lms]: <https://lms.madisoncity.k12.al.us/>
+[jchs]: <https://jchs.madisoncity.k12.al.us/>
+
+{% include mailchimp.html %}
