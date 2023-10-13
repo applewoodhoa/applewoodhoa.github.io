@@ -267,6 +267,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 228)
+  kramdown-parser-gfm
 
 BUNDLED WITH
    1.17.3
